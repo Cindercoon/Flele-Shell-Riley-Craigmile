@@ -1,0 +1,360 @@
+charset,OSNative
+file,delete.txt916fc35020020375995a88c18b3192e8size=573date=2007-09-15T22:00:00
+file,ghost/master/0.dic81eaab0d68668379e7ee12ba6daeb4e6size=38013date=2008-02-06T06:11:38
+file,ghost/master/1.dicd63efaf13d10252f3e0b182a4c9223a9size=72708date=2024-05-02T00:44:52
+file,ghost/master/1.dic Files/1 (Less Chatter).dic708b0509ffc31fbf4c20cc723d0c4172size=75474date=2023-12-04T22:30:49
+file,ghost/master/1.dic Files/1 (More Chatter).dic3aee63a018efd94059919256373414fasize=75475date=2023-12-04T22:30:44
+file,ghost/master/1.dic Files/1 (No Chatter).dic22b328af89106853028659f29e56c938size=75352date=2023-10-24T23:15:19
+file,ghost/master/1.dic Files/1 (Zarla English Patch Original).dicb40cd351e2c05f1f4522a9f1b5357315size=83509date=2023-07-12T01:03:01
+file,ghost/master/1.dic Files/Reasd Me.txtbb12ba034f55f715e1a8419dc96be33csize=504date=2023-08-24T15:52:33
+file,ghost/master/aya5.dll7737614f08f642a0261a4f81917ed77asize=198144date=2007-09-15T22:00:00
+file,ghost/master/aya5.txtc1e734513f7e42027448afe06ff578desize=36date=2007-09-16T22:00:00
+file,ghost/master/dat/tmp.m3ud41d8cd98f00b204e9800998ecf8427esize=0date=2007-09-15T22:00:00
+file,ghost/master/descript.txt56b169f773a08b2c91c3097fe177ce1asize=381date=2024-03-09T18:59:02
+file,ghost/master/img/blbg_help_zukai.png5767bd0dd44f54be94b32b80ae6b17c5size=4922date=2007-09-15T22:00:00
+file,ghost/master/img/blbg_help_zukai2.png542b13db823e162eda60bc88d2342ec2size=2325date=2007-09-15T22:00:00
+file,ghost/master/img/fle_b.ico4a481c908f76c1bb5461955388f01033size=1406date=2007-09-15T22:00:00
+file,ghost/master/img/fle_m.icod41112fb2837551df73a73891f5c83desize=1406date=2007-09-15T22:00:00
+file,ghost/master/img/fle_n.icoac4f1ac9dd006087b0ebacb4f35d41f1size=1406date=2007-09-15T22:00:00
+file,ghost/master/img/fle_w.ico0eefb93efe21f29217ee7c9fca6f3c5csize=1406date=2007-09-15T22:00:00
+file,ghost/master/img/icon_cd.pnge5e3a583c4eb906f488ca823a3eb9265size=887date=2007-09-15T22:00:00
+file,ghost/master/img/icon_clear.pngfb043c31758a6354f719d7ad78f8235csize=883date=2007-09-15T22:00:00
+file,ghost/master/img/icon_fopen.png9d8b39a9a710d0061c98a8a991fdca6dsize=885date=2007-09-15T22:00:00
+file,ghost/master/img/icon_hotkey.png3836dc906613e3c84332d2f68377c887size=882date=2007-09-15T22:00:00
+file,ghost/master/img/icon_info.pngd0f5ef706e0f3ca1f9d7dbe4b0a491edsize=886date=2007-09-15T22:00:00
+file,ghost/master/img/icon_k_win.png5b2a7de2ff50d6da50f0357e6c454ea2size=887date=2007-09-15T22:00:00
+file,ghost/master/img/icon_keycon.pngc268505950035649bbb0fc686af60d9csize=884date=2007-09-15T22:00:00
+file,ghost/master/img/icon_m3u.pngfe51b0713875de241607657b479c6263size=879date=2007-09-15T22:00:00
+file,ghost/master/img/icon_music.png68cce7836fe9eef1e7903898425a4dc5size=886date=2007-09-15T22:00:00
+file,ghost/master/img/icon_point.png87eefbb9ce099b7ea42ba48804919ed6size=874date=2007-09-15T22:00:00
+file,ghost/master/img/icon_urldl.png9138f438c691dac25d10f70dbe4d1361size=887date=2007-09-15T22:00:00
+file,ghost/master/img/icon_urlfor.png013a224ae5892aaea19b6c963f746ffasize=894date=2007-09-15T22:00:00
+file,ghost/master/saori/KI.dllfdfb9beff13c03350290a68d72c39d2dsize=182784date=2002-09-28T12:33:18
+file,ghost/master/saori/Weirds.dll3d636fe9c6ebf1a3da2c270d1ecb62fasize=154624date=2006-02-19T18:43:44
+file,ghost/master/saori/bln.dll789117681e8bfdbf4cf9a1c9b0e86d63size=98816date=2004-02-09T21:10:08
+file,ghost/master/saori/bln.txte7a1e7dd229c72a33f4ad2f1f4d70595size=257date=2006-06-21T22:00:00
+file,ghost/master/saori/hotkey.dll7c4a537330dec96b1e1e97df56c3576esize=122880date=2006-06-09T08:03:44
+file,ghost/master/saori/hotkey.exe690acbb189763b8734c9e8615deffea9size=143360date=2006-06-09T08:05:54
+file,ghost/master/saori/mciaudior.dll6ffafb1b443419f39ae4af809c3513a2size=96256date=2005-05-24T09:15:50
+file,ghost/master/saori/mcidonut.dll37c0d098881e9d4693c52235e7bedb48size=51200date=2007-06-17T22:18:46
+file,ghost/master/saori/proxy.dll821c3e4dfceee4b83daddab891613994size=81920date=2002-04-08T22:00:00
+file,ghost/master/saori/win01.png37b4812e7078e0d64f5e8bfb5973a943size=1048date=2006-06-16T22:00:00
+file,ghost/master/saori/wvt.exee8769966f67983c81b71a9865a230d51size=453632date=2007-05-21T19:23:00
+file,ghost/master/sec.aycff99665dba1f1fd7eba1c27c6e0f16f0size=1388date=2007-09-15T22:00:00
+file,install.txtcbbfb29844a7afe7b30e1577e947ea78size=91date=2023-07-13T16:37:32
+file,m3u_file/Personal Faves.m3u.m3u4a56bfbf22482d563917cadca4919d79size=2543date=2023-09-03T02:10:27
+file,m3u_file/Silence.m3u.m3u5c07ee14e88683d0192c8c9e8667df2asize=83date=2023-08-01T00:37:22
+file,m3u_file/m3u_file.txt522a3760f743b802dcad2551bc1a436esize=25date=2007-09-15T22:00:00
+file,readme.txte18714ed2f8a4f66d71f60279b726c61size=3668date=2023-12-25T23:31:43
+file,shell/MissingNo/Extras/No Outline/surface0000.png04c3a4fe73e40a08de8a59b307d27525size=41277date=2023-12-11T04:48:43
+file,shell/MissingNo/Extras/No Outline/surface0001.png04c3a4fe73e40a08de8a59b307d27525size=41277date=2023-12-11T04:48:47
+file,shell/MissingNo/Extras/No Outline/surface0002.pngb57dc9b0f9d8ecf2c6b28abcd4aee20asize=42930date=2023-12-11T04:48:31
+file,shell/MissingNo/Extras/No Outline/surface0003.png6ce00993cb6414b74846acccdba794b5size=56195date=2023-12-11T04:51:52
+file,shell/MissingNo/Extras/No Outline/surface0004.png2e2ffdb7a964b2f587a1942f29a9ee27size=56826date=2023-12-11T04:50:03
+file,shell/MissingNo/Extras/No Outline/surface0005.png70b7c759e1a8f72432b881d7259654cesize=44100date=2023-12-11T04:45:01
+file,shell/MissingNo/Extras/No Outline/surface0007.png1fd8f0a5a891013d87ae4e4c7687cf28size=43919date=2023-12-11T04:45:27
+file,shell/MissingNo/Extras/No Outline/surface0100.pngf978b1848d24d4e6232371a880d16d8dsize=5986date=2023-10-06T18:12:49
+file,shell/MissingNo/Extras/No Outline/surface0101.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:12:53
+file,shell/MissingNo/Extras/No Outline/surface0102.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:12:56
+file,shell/MissingNo/Extras/No Outline/surface0103.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:12:59
+file,shell/MissingNo/Extras/No Outline/surface0104.pngf978b1848d24d4e6232371a880d16d8dsize=5986date=2023-10-06T18:13:02
+file,shell/MissingNo/Extras/No Outline/surface0105.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:13:05
+file,shell/MissingNo/Extras/No Outline/surface0106.png43caeb2f5513b91b9f907b816cb06014size=5973date=2023-10-06T18:13:07
+file,shell/MissingNo/Extras/No Outline/surface0107.png2fd5e4b225f857a6df7da9914d382fe1size=1959date=2023-10-04T02:41:21
+file,shell/MissingNo/Extras/No Outline/surface0108.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:13:10
+file,shell/MissingNo/Extras/No Outline/surface0109.png4b068055437fb2e417dc4ba2d613a006size=2233date=2023-09-28T00:03:06
+file,shell/MissingNo/Extras/No Outline/surface0110.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:03:15
+file,shell/MissingNo/Extras/No Outline/surface0111.png2fd5e4b225f857a6df7da9914d382fe1size=1959date=2023-10-04T02:41:41
+file,shell/MissingNo/Extras/No Outline/surface0112.png4b068055437fb2e417dc4ba2d613a006size=2233date=2023-09-28T00:03:29
+file,shell/MissingNo/Extras/No Outline/surface0113.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:03:38
+file,shell/MissingNo/Extras/No Outline/surface0114.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:03:48
+file,shell/MissingNo/Extras/No Outline/surface0115.png2fd5e4b225f857a6df7da9914d382fe1size=1959date=2023-10-04T02:43:28
+file,shell/MissingNo/Extras/No Outline/surface0116.png4b068055437fb2e417dc4ba2d613a006size=2233date=2023-09-28T00:04:08
+file,shell/MissingNo/Extras/No Outline/surface0117.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:04:22
+file,shell/MissingNo/Extras/No Outline/surface0118.png2fd5e4b225f857a6df7da9914d382fe1size=1959date=2023-10-04T02:43:20
+file,shell/MissingNo/Extras/No Outline/surface0119.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:04:38
+file,shell/MissingNo/Extras/No Outline/surface0200.png6a7bc16e75717fd4af9692529192e74esize=55339date=2023-10-06T19:05:51
+file,shell/MissingNo/Extras/No Outline/surface0211.png4a6eec2f547c7c7d9f92719182799690size=5937date=2023-09-28T18:06:20
+file,shell/MissingNo/Extras/No Outline/surface0212.png3d31a0681498a08b6f5b39915b01c894size=5799date=2023-09-28T18:05:19
+file,shell/MissingNo/Extras/No Outline/surface0213.png0a8398ea84e22f3f373cab34848c09e6size=6100date=2023-09-28T18:07:09
+file,shell/MissingNo/Extras/No Outline/surface0214.pnga76447e3653316eab334d9c77dc58eafsize=3310date=2023-09-28T01:07:41
+file,shell/MissingNo/Extras/No Outline/surface0215.pngf2c6510483510a31ba3714df3095d25asize=3152date=2023-09-28T01:08:03
+file,shell/MissingNo/Extras/No Outline/surface0216.pnge363bdffb68bebd708790caa854639d3size=3359date=2023-09-28T01:08:14
+file,shell/MissingNo/Extras/No Outline/surface0217.png222046fcbee31694bf485d5b19f10911size=3312date=2023-09-28T01:08:27
+file,shell/MissingNo/Extras/No Outline/surface0218.pngd1ee9414c8575ea655435ba61a8a2359size=3267date=2023-09-28T01:08:33
+file,shell/MissingNo/Extras/No Outline/surface0219.png3638a7ed6eb7d0fbf3100f7e2d09c6f1size=3762date=2023-09-28T18:05:35
+file,shell/MissingNo/Extras/No Outline/surface0220.png03ee8bf9de2cb88b7c813c36b7ab7790size=5174date=2023-10-04T03:08:13
+file,shell/MissingNo/Extras/No Outline/surface0221.pngcdd9d8433741adba8946f6926987cdd3size=4746date=2023-09-28T02:16:34
+file,shell/MissingNo/Extras/No Outline/surface0222.pngc0c068d3620fa854d6e6c69bfbb1df55size=4841date=2023-09-28T18:37:10
+file,shell/MissingNo/Extras/No Outline/surface0230.pngd8e9183c3401c0b06a6f93750fafe1f1size=3684date=2023-09-28T18:29:22
+file,shell/MissingNo/Extras/No Outline/surface0231.png72dcd2f0aa77b573b9beb174c01a0942size=3792date=2023-09-28T18:09:57
+file,shell/MissingNo/Extras/No Outline/surface0240.png422da14feeeec3a6189a4ed9c9f1be52size=5941date=2023-10-06T18:12:46
+file,shell/MissingNo/Extras/No Outline/surface0241.pnga85645170f7b99dd0f259bb7e65c424asize=5278date=2023-10-04T03:16:51
+file,shell/MissingNo/Extras/No Outline/surface0300.pngd9dd1827d0e745f03e4b885102a925casize=5651date=2023-09-28T02:37:49
+file,shell/MissingNo/Extras/No Outline/surface0301.png9aa5c7458108e70aee93220ec1743b20size=6497date=2023-09-28T02:38:01
+file,shell/MissingNo/descript.txtf46c00aba6ea0139a4019e8de309cca6size=856date=2024-01-07T02:05:59
+file,shell/MissingNo/menu_background.png79e1eec8474db01bc0b3999b5d1f1d42size=251date=2007-09-15T23:00:00
+file,shell/MissingNo/menu_foreground.pngd041ddc2ff7ba457095680c85198ca45size=2398date=2007-09-15T23:00:00
+file,shell/MissingNo/menu_sidebar.png08d6da46dadbe775cc5e8497e030e39bsize=3337date=2023-09-27T23:28:53
+file,shell/MissingNo/readme.txt642a44c4bf7eb67de909ebae9da2e768size=864date=2023-10-06T19:25:32
+file,shell/MissingNo/surface0000.png04c3a4fe73e40a08de8a59b307d27525size=41277date=2023-12-11T04:48:43
+file,shell/MissingNo/surface0001.png04c3a4fe73e40a08de8a59b307d27525size=41277date=2023-12-11T04:48:47
+file,shell/MissingNo/surface0002.pngb57dc9b0f9d8ecf2c6b28abcd4aee20asize=42930date=2023-12-11T04:48:31
+file,shell/MissingNo/surface0003.png6ce00993cb6414b74846acccdba794b5size=56195date=2023-12-11T04:51:52
+file,shell/MissingNo/surface0004.png2e2ffdb7a964b2f587a1942f29a9ee27size=56826date=2023-12-11T04:50:03
+file,shell/MissingNo/surface0005.png70b7c759e1a8f72432b881d7259654cesize=44100date=2023-12-11T04:45:01
+file,shell/MissingNo/surface0007.png1fd8f0a5a891013d87ae4e4c7687cf28size=43919date=2023-12-11T04:45:27
+file,shell/MissingNo/surface0008.png0ff40a66e751e4a32df0eaeb90cfd7f4size=41243date=2023-12-11T08:04:32
+file,shell/MissingNo/surface0100.pngf978b1848d24d4e6232371a880d16d8dsize=5986date=2023-10-06T18:12:49
+file,shell/MissingNo/surface0101.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:12:53
+file,shell/MissingNo/surface0102.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:12:56
+file,shell/MissingNo/surface0103.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:12:59
+file,shell/MissingNo/surface0104.pngf978b1848d24d4e6232371a880d16d8dsize=5986date=2023-10-06T18:13:02
+file,shell/MissingNo/surface0105.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:13:05
+file,shell/MissingNo/surface0106.png43caeb2f5513b91b9f907b816cb06014size=5973date=2023-10-06T18:13:07
+file,shell/MissingNo/surface0107.png2fd5e4b225f857a6df7da9914d382fe1size=1959date=2023-10-04T02:41:21
+file,shell/MissingNo/surface0108.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:13:10
+file,shell/MissingNo/surface0109.png4b068055437fb2e417dc4ba2d613a006size=2233date=2023-09-28T00:03:06
+file,shell/MissingNo/surface0110.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:03:15
+file,shell/MissingNo/surface0111.png2fd5e4b225f857a6df7da9914d382fe1size=1959date=2023-10-04T02:41:41
+file,shell/MissingNo/surface0112.png4b068055437fb2e417dc4ba2d613a006size=2233date=2023-09-28T00:03:29
+file,shell/MissingNo/surface0113.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:03:38
+file,shell/MissingNo/surface0114.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:03:48
+file,shell/MissingNo/surface0115.png2fd5e4b225f857a6df7da9914d382fe1size=1959date=2023-10-04T02:43:28
+file,shell/MissingNo/surface0116.png4b068055437fb2e417dc4ba2d613a006size=2233date=2023-09-28T00:04:08
+file,shell/MissingNo/surface0117.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:04:22
+file,shell/MissingNo/surface0118.png2fd5e4b225f857a6df7da9914d382fe1size=1959date=2023-10-04T02:43:20
+file,shell/MissingNo/surface0119.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:04:38
+file,shell/MissingNo/surface0120.png422da14feeeec3a6189a4ed9c9f1be52size=5941date=2023-12-11T07:56:00
+file,shell/MissingNo/surface0121.png18112c7b3524199b6c781de2449a77cesize=5949date=2023-12-11T07:56:05
+file,shell/MissingNo/surface0200.png6a7bc16e75717fd4af9692529192e74esize=55339date=2023-10-06T19:05:51
+file,shell/MissingNo/surface0211.png4a6eec2f547c7c7d9f92719182799690size=5937date=2023-09-28T18:06:20
+file,shell/MissingNo/surface0212.png3d31a0681498a08b6f5b39915b01c894size=5799date=2023-09-28T18:05:19
+file,shell/MissingNo/surface0213.png0a8398ea84e22f3f373cab34848c09e6size=6100date=2023-09-28T18:07:09
+file,shell/MissingNo/surface0214.pnga76447e3653316eab334d9c77dc58eafsize=3310date=2023-09-28T01:07:41
+file,shell/MissingNo/surface0215.pngf2c6510483510a31ba3714df3095d25asize=3152date=2023-09-28T01:08:03
+file,shell/MissingNo/surface0216.pnge363bdffb68bebd708790caa854639d3size=3359date=2023-09-28T01:08:14
+file,shell/MissingNo/surface0217.png222046fcbee31694bf485d5b19f10911size=3312date=2023-09-28T01:08:27
+file,shell/MissingNo/surface0218.pngd1ee9414c8575ea655435ba61a8a2359size=3267date=2023-09-28T01:08:33
+file,shell/MissingNo/surface0219.png3638a7ed6eb7d0fbf3100f7e2d09c6f1size=3762date=2023-09-28T18:05:35
+file,shell/MissingNo/surface0220.png03ee8bf9de2cb88b7c813c36b7ab7790size=5174date=2023-10-04T03:08:13
+file,shell/MissingNo/surface0221.pngcdd9d8433741adba8946f6926987cdd3size=4746date=2023-09-28T02:16:34
+file,shell/MissingNo/surface0222.pngc0c068d3620fa854d6e6c69bfbb1df55size=4841date=2023-09-28T18:37:10
+file,shell/MissingNo/surface0230.pngd8e9183c3401c0b06a6f93750fafe1f1size=3684date=2023-09-28T18:29:22
+file,shell/MissingNo/surface0231.png72dcd2f0aa77b573b9beb174c01a0942size=3792date=2023-09-28T18:09:57
+file,shell/MissingNo/surface0240.png422da14feeeec3a6189a4ed9c9f1be52size=5941date=2023-10-06T18:12:46
+file,shell/MissingNo/surface0241.pnga85645170f7b99dd0f259bb7e65c424asize=5278date=2023-10-04T03:16:51
+file,shell/MissingNo/surface0300.pngacefbe7f7bd72fb513f62bd5401774f6size=2360date=2023-12-11T07:48:05
+file,shell/MissingNo/surface0301.pngb76192840a6b6e7040af3bb2f00fc108size=2344date=2023-12-11T07:48:12
+file,shell/MissingNo/surfaces.txtb8048d79cede1282186f84b917305725size=3226date=2023-12-11T08:52:45
+file,shell/MissingNo/surfacetable.txta080c6512d355085396c963645cdfc0dsize=289date=2023-10-15T02:47:59
+file,shell/master/Extras/Naked/No Outline/surface0000.png04c3a4fe73e40a08de8a59b307d27525size=41277date=2023-12-11T04:48:43
+file,shell/master/Extras/Naked/No Outline/surface0001.png04c3a4fe73e40a08de8a59b307d27525size=41277date=2023-12-11T04:48:47
+file,shell/master/Extras/Naked/No Outline/surface0002.pngb57dc9b0f9d8ecf2c6b28abcd4aee20asize=42930date=2023-12-11T04:48:31
+file,shell/master/Extras/Naked/No Outline/surface0003.png6ce00993cb6414b74846acccdba794b5size=56195date=2023-12-11T04:51:52
+file,shell/master/Extras/Naked/No Outline/surface0004.png2e2ffdb7a964b2f587a1942f29a9ee27size=56826date=2023-12-11T04:50:03
+file,shell/master/Extras/Naked/No Outline/surface0005.png70b7c759e1a8f72432b881d7259654cesize=44100date=2023-12-11T04:45:01
+file,shell/master/Extras/Naked/No Outline/surface0007.png1fd8f0a5a891013d87ae4e4c7687cf28size=43919date=2023-12-11T04:45:27
+file,shell/master/Extras/Naked/No Outline/surface0100.pngf978b1848d24d4e6232371a880d16d8dsize=5986date=2023-10-06T18:12:49
+file,shell/master/Extras/Naked/No Outline/surface0101.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:12:53
+file,shell/master/Extras/Naked/No Outline/surface0102.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:12:56
+file,shell/master/Extras/Naked/No Outline/surface0103.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:12:59
+file,shell/master/Extras/Naked/No Outline/surface0104.pngf978b1848d24d4e6232371a880d16d8dsize=5986date=2023-10-06T18:13:02
+file,shell/master/Extras/Naked/No Outline/surface0105.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:13:05
+file,shell/master/Extras/Naked/No Outline/surface0106.png43caeb2f5513b91b9f907b816cb06014size=5973date=2023-10-06T18:13:07
+file,shell/master/Extras/Naked/No Outline/surface0107.png2fd5e4b225f857a6df7da9914d382fe1size=1959date=2023-10-04T02:41:21
+file,shell/master/Extras/Naked/No Outline/surface0108.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:13:10
+file,shell/master/Extras/Naked/No Outline/surface0109.png4b068055437fb2e417dc4ba2d613a006size=2233date=2023-09-28T00:03:06
+file,shell/master/Extras/Naked/No Outline/surface0110.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:03:15
+file,shell/master/Extras/Naked/No Outline/surface0111.png2fd5e4b225f857a6df7da9914d382fe1size=1959date=2023-10-04T02:41:41
+file,shell/master/Extras/Naked/No Outline/surface0112.png4b068055437fb2e417dc4ba2d613a006size=2233date=2023-09-28T00:03:29
+file,shell/master/Extras/Naked/No Outline/surface0113.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:03:38
+file,shell/master/Extras/Naked/No Outline/surface0114.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:03:48
+file,shell/master/Extras/Naked/No Outline/surface0115.png2fd5e4b225f857a6df7da9914d382fe1size=1959date=2023-10-04T02:43:28
+file,shell/master/Extras/Naked/No Outline/surface0116.png4b068055437fb2e417dc4ba2d613a006size=2233date=2023-09-28T00:04:08
+file,shell/master/Extras/Naked/No Outline/surface0117.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:04:22
+file,shell/master/Extras/Naked/No Outline/surface0118.png2fd5e4b225f857a6df7da9914d382fe1size=1959date=2023-10-04T02:43:20
+file,shell/master/Extras/Naked/No Outline/surface0119.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:04:38
+file,shell/master/Extras/Naked/No Outline/surface0200.png6a7bc16e75717fd4af9692529192e74esize=55339date=2023-10-06T19:05:51
+file,shell/master/Extras/Naked/No Outline/surface0211.png4a6eec2f547c7c7d9f92719182799690size=5937date=2023-09-28T18:06:20
+file,shell/master/Extras/Naked/No Outline/surface0212.png3d31a0681498a08b6f5b39915b01c894size=5799date=2023-09-28T18:05:19
+file,shell/master/Extras/Naked/No Outline/surface0213.png0a8398ea84e22f3f373cab34848c09e6size=6100date=2023-09-28T18:07:09
+file,shell/master/Extras/Naked/No Outline/surface0214.pnga76447e3653316eab334d9c77dc58eafsize=3310date=2023-09-28T01:07:41
+file,shell/master/Extras/Naked/No Outline/surface0215.pngf2c6510483510a31ba3714df3095d25asize=3152date=2023-09-28T01:08:03
+file,shell/master/Extras/Naked/No Outline/surface0216.pnge363bdffb68bebd708790caa854639d3size=3359date=2023-09-28T01:08:14
+file,shell/master/Extras/Naked/No Outline/surface0217.png222046fcbee31694bf485d5b19f10911size=3312date=2023-09-28T01:08:27
+file,shell/master/Extras/Naked/No Outline/surface0218.pngd1ee9414c8575ea655435ba61a8a2359size=3267date=2023-09-28T01:08:33
+file,shell/master/Extras/Naked/No Outline/surface0219.png3638a7ed6eb7d0fbf3100f7e2d09c6f1size=3762date=2023-09-28T18:05:35
+file,shell/master/Extras/Naked/No Outline/surface0220.png03ee8bf9de2cb88b7c813c36b7ab7790size=5174date=2023-10-04T03:08:13
+file,shell/master/Extras/Naked/No Outline/surface0221.pngcdd9d8433741adba8946f6926987cdd3size=4746date=2023-09-28T02:16:34
+file,shell/master/Extras/Naked/No Outline/surface0222.pngc0c068d3620fa854d6e6c69bfbb1df55size=4841date=2023-09-28T18:37:10
+file,shell/master/Extras/Naked/No Outline/surface0230.pngd8e9183c3401c0b06a6f93750fafe1f1size=3684date=2023-09-28T18:29:22
+file,shell/master/Extras/Naked/No Outline/surface0231.png72dcd2f0aa77b573b9beb174c01a0942size=3792date=2023-09-28T18:09:57
+file,shell/master/Extras/Naked/No Outline/surface0240.png422da14feeeec3a6189a4ed9c9f1be52size=5941date=2023-10-06T18:12:46
+file,shell/master/Extras/Naked/No Outline/surface0241.pnga85645170f7b99dd0f259bb7e65c424asize=5278date=2023-10-04T03:16:51
+file,shell/master/Extras/Naked/No Outline/surface0300.pngd9dd1827d0e745f03e4b885102a925casize=5651date=2023-09-28T02:37:49
+file,shell/master/Extras/Naked/No Outline/surface0301.png9aa5c7458108e70aee93220ec1743b20size=6497date=2023-09-28T02:38:01
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0000.pnga01fd760043b942f7f93295ea8a943c4size=45477date=2023-10-06T19:04:41
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0001.pngac7946f315380086e409ffe1be30939esize=45138date=2023-10-06T19:04:26
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0002.png73f706319106d8053bd04656fa5b7656size=47836date=2023-10-06T18:59:18
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0003.pngafaab6559d3350a19ffadb156e4244c9size=58298date=2023-09-28T19:03:12
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0004.pngf987eec86f0a48ff145247cc8879fb5bsize=59866date=2023-10-06T18:54:33
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0005.pngf3d08569b405ef09cacdec61558fd879size=49008date=2023-10-06T18:55:02
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0007.png5973cd745ef3709b259d0b08aa17f3c5size=48846date=2023-10-06T18:55:18
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0100.pngf978b1848d24d4e6232371a880d16d8dsize=5986date=2023-10-06T18:12:49
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0101.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:12:53
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0102.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:12:56
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0103.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:12:59
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0104.pngf978b1848d24d4e6232371a880d16d8dsize=5986date=2023-10-06T18:13:02
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0105.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:13:05
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0106.png43caeb2f5513b91b9f907b816cb06014size=5973date=2023-10-06T18:13:07
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0107.png2fd5e4b225f857a6df7da9914d382fe1size=1959date=2023-10-04T02:41:21
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0108.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:13:10
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0109.png4b068055437fb2e417dc4ba2d613a006size=2233date=2023-09-28T00:03:06
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0110.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:03:15
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0111.png2fd5e4b225f857a6df7da9914d382fe1size=1959date=2023-10-04T02:41:41
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0112.png4b068055437fb2e417dc4ba2d613a006size=2233date=2023-09-28T00:03:29
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0113.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:03:38
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0114.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:03:48
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0115.png2fd5e4b225f857a6df7da9914d382fe1size=1959date=2023-10-04T02:43:28
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0116.png4b068055437fb2e417dc4ba2d613a006size=2233date=2023-09-28T00:04:08
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0117.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:04:22
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0118.png2fd5e4b225f857a6df7da9914d382fe1size=1959date=2023-10-04T02:43:20
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0119.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:04:38
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0200.png6a7bc16e75717fd4af9692529192e74esize=55339date=2023-10-06T19:05:51
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0211.png4a6eec2f547c7c7d9f92719182799690size=5937date=2023-09-28T18:06:20
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0212.png3d31a0681498a08b6f5b39915b01c894size=5799date=2023-09-28T18:05:19
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0213.png0a8398ea84e22f3f373cab34848c09e6size=6100date=2023-09-28T18:07:09
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0214.pnga76447e3653316eab334d9c77dc58eafsize=3310date=2023-09-28T01:07:41
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0215.pngf2c6510483510a31ba3714df3095d25asize=3152date=2023-09-28T01:08:03
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0216.pnge363bdffb68bebd708790caa854639d3size=3359date=2023-09-28T01:08:14
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0217.png222046fcbee31694bf485d5b19f10911size=3312date=2023-09-28T01:08:27
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0218.pngd1ee9414c8575ea655435ba61a8a2359size=3267date=2023-09-28T01:08:33
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0219.png3638a7ed6eb7d0fbf3100f7e2d09c6f1size=3762date=2023-09-28T18:05:35
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0220.png03ee8bf9de2cb88b7c813c36b7ab7790size=5174date=2023-10-04T03:08:13
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0221.pngcdd9d8433741adba8946f6926987cdd3size=4746date=2023-09-28T02:16:34
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0222.pngc0c068d3620fa854d6e6c69bfbb1df55size=4841date=2023-09-28T18:37:10
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0230.pngd8e9183c3401c0b06a6f93750fafe1f1size=3684date=2023-09-28T18:29:22
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0231.png72dcd2f0aa77b573b9beb174c01a0942size=3792date=2023-09-28T18:09:57
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0240.png422da14feeeec3a6189a4ed9c9f1be52size=5941date=2023-10-06T18:12:46
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0241.pnga85645170f7b99dd0f259bb7e65c424asize=5278date=2023-10-04T03:16:51
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0300.pngd9dd1827d0e745f03e4b885102a925casize=5651date=2023-09-28T02:37:49
+file,shell/master/Extras/Pink Cardigan/No Outline/surface0301.png9aa5c7458108e70aee93220ec1743b20size=6497date=2023-09-28T02:38:01
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0000.pngcfcb9d41551329163a04c85a764731e9size=49363date=2023-10-06T19:05:36
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0001.png89555a07f7ce177b0d122fac5e01ed70size=48918date=2023-10-06T19:05:33
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0002.png6df32c2cdacce8e0fbfca37b3335af6esize=51861date=2023-10-06T18:39:35
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0003.pnga73021883be32aac45fee01761e9a1bbsize=63162date=2023-10-06T18:39:50
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0004.png603a0ecda1b7d1acd358f0b9f7724d5dsize=65174date=2023-10-06T18:47:57
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0005.png4277109f1f1ce698fba0601fcb92a4f6size=53241date=2023-10-06T18:47:49
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0007.png85b5f653cb4ac22b7c9289571ae03428size=53106date=2023-10-06T18:47:52
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0100.pngf978b1848d24d4e6232371a880d16d8dsize=5986date=2023-10-06T18:12:49
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0101.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:12:53
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0102.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:12:56
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0103.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:12:59
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0104.pngf978b1848d24d4e6232371a880d16d8dsize=5986date=2023-10-06T18:13:02
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0105.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:13:05
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0106.png43caeb2f5513b91b9f907b816cb06014size=5973date=2023-10-06T18:13:07
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0107.png2fd5e4b225f857a6df7da9914d382fe1size=1959date=2023-10-04T02:41:21
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0108.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:13:10
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0109.png4b068055437fb2e417dc4ba2d613a006size=2233date=2023-09-28T00:03:06
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0110.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:03:15
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0111.png2fd5e4b225f857a6df7da9914d382fe1size=1959date=2023-10-04T02:41:41
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0112.png4b068055437fb2e417dc4ba2d613a006size=2233date=2023-09-28T00:03:29
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0113.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:03:38
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0114.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:03:48
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0115.png2fd5e4b225f857a6df7da9914d382fe1size=1959date=2023-10-04T02:43:28
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0116.png4b068055437fb2e417dc4ba2d613a006size=2233date=2023-09-28T00:04:08
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0117.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:04:22
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0118.png2fd5e4b225f857a6df7da9914d382fe1size=1959date=2023-10-04T02:43:20
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0119.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:04:38
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0200.pngc05fdd30c97f35414979c96c00ed3204size=60378date=2023-10-06T19:06:44
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0211.png9e914faec9f23b9429825baec8b14204size=6115date=2023-10-04T04:27:39
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0212.pngb29ba1cb6cd763602e5e72bdc4c6055fsize=5947date=2023-10-04T04:28:02
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0213.png9ec60a5d0026bf21e07dc2ce1acb239asize=6297date=2023-10-04T04:28:21
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0214.pnga76447e3653316eab334d9c77dc58eafsize=3310date=2023-09-28T01:07:41
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0215.pngf2c6510483510a31ba3714df3095d25asize=3152date=2023-09-28T01:08:03
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0216.pnge363bdffb68bebd708790caa854639d3size=3359date=2023-09-28T01:08:14
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0217.png222046fcbee31694bf485d5b19f10911size=3312date=2023-09-28T01:08:27
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0218.pngd1ee9414c8575ea655435ba61a8a2359size=3267date=2023-09-28T01:08:33
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0219.png3638a7ed6eb7d0fbf3100f7e2d09c6f1size=3762date=2023-09-28T18:05:35
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0220.png48e1f0f260f5a0889905c1d971770a41size=5780date=2023-10-04T04:31:29
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0221.png49bbd31aa3376b82771bdaf60852af27size=5222date=2023-10-04T04:18:57
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0222.png93e7f5ff1f8d496b74ab120491bf52fesize=5281date=2023-10-04T04:23:07
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0230.pngfcdcc0b46e5660cca240b3f167900f0fsize=4271date=2023-10-04T04:38:33
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0231.png3829128e8934b3dd14cf5aeb5000945dsize=4392date=2023-10-04T04:38:59
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0240.png422da14feeeec3a6189a4ed9c9f1be52size=5941date=2023-10-06T18:12:46
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0241.png18112c7b3524199b6c781de2449a77cesize=5949date=2023-10-06T18:23:02
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0300.pngd9dd1827d0e745f03e4b885102a925casize=5651date=2023-09-28T02:37:49
+file,shell/master/Extras/Pink Cardigan/White Outline/surface0301.png9aa5c7458108e70aee93220ec1743b20size=6497date=2023-09-28T02:38:01
+file,shell/master/Extras/Pink Cardigan/surface0211.png9420dfd7ae663dda084386e0cbef67d1size=9064date=2023-09-28T01:28:19
+file,shell/master/Extras/Pink Cardigan/surface0212.png404af55a89e2a9413ec7775e358d40dcsize=8841date=2023-09-28T01:28:29
+file,shell/master/Extras/Pink Cardigan/surface0213.pngf7b889c3dc4bfefc1c8d2d2619be4f0csize=9245date=2023-09-28T01:28:37
+file,shell/master/Extras/Pink Cardigan/surface0214.pnga76447e3653316eab334d9c77dc58eafsize=3310date=2023-09-28T01:07:41
+file,shell/master/Extras/Pink Cardigan/surface0215.pngf2c6510483510a31ba3714df3095d25asize=3152date=2023-09-28T01:08:03
+file,shell/master/Extras/Pink Cardigan/surface0216.pnge363bdffb68bebd708790caa854639d3size=3359date=2023-09-28T01:08:14
+file,shell/master/Extras/Pink Cardigan/surface0217.png222046fcbee31694bf485d5b19f10911size=3312date=2023-09-28T01:08:27
+file,shell/master/Extras/Pink Cardigan/surface0218.pngd1ee9414c8575ea655435ba61a8a2359size=3267date=2023-09-28T01:08:33
+file,shell/master/Extras/Pink Cardigan/surface0219.png3638a7ed6eb7d0fbf3100f7e2d09c6f1size=3762date=2023-09-28T18:05:35
+file,shell/master/Extras/surfaces/No Mouth/surface0005.pnga08c32563956637627ce719a0b9f8b8csize=48817date=2024-05-01T23:37:40
+file,shell/master/Extras/surfaces/No Mouth/surface0008.pngc041690ab82e91a179d0636331eeb882size=47637date=2024-05-01T23:37:34
+file,shell/master/Extras/surfaces/surface0005.png17604eb6ab98ce4e717f1b6cf68ed1fdsize=48990date=2024-05-01T23:49:55
+file,shell/master/Extras/surfaces/surface0008.png45649076d51f0192bb916aeedc387c11size=47807date=2024-05-01T23:49:57
+file,shell/master/Extras/surfaces/surfaces (moving mouth).txtbcba8bb2b39f3f875d87e47aa0150c0bsize=5950date=2024-05-01T23:45:21
+file,shell/master/Extras/surfaces/surfaces (og).txte6261094be00d5b093b73fb24eded67dsize=5519date=2024-05-01T23:46:30
+file,shell/master/descript.txte7fd6ee3b9f135e5488d26942c98a0besize=859date=2023-12-11T06:43:23
+file,shell/master/menu_background.png79e1eec8474db01bc0b3999b5d1f1d42size=251date=2007-09-15T23:00:00
+file,shell/master/menu_foreground.pngd041ddc2ff7ba457095680c85198ca45size=2398date=2007-09-15T23:00:00
+file,shell/master/menu_sidebar.png08d6da46dadbe775cc5e8497e030e39bsize=3337date=2023-09-27T23:28:53
+file,shell/master/readme.txt642a44c4bf7eb67de909ebae9da2e768size=864date=2023-10-06T19:25:32
+file,shell/master/surface0000.png6861825f9126e2167dfb42b3e1aae262size=45448date=2023-10-06T19:13:12
+file,shell/master/surface0001.png28f67e033b693e22f686477657f8b04asize=45106date=2023-10-06T19:13:16
+file,shell/master/surface0002.png45649076d51f0192bb916aeedc387c11size=47807date=2023-10-06T19:13:20
+file,shell/master/surface0003.pngef1d0acd922fedd7e400e2b08b0bbeb9size=58279date=2023-10-06T19:13:25
+file,shell/master/surface0004.png131780a6fadc1417f5b3af1688728febsize=59842date=2023-10-06T19:13:30
+file,shell/master/surface0005.png17604eb6ab98ce4e717f1b6cf68ed1fdsize=48990date=2024-05-01T23:49:55
+file,shell/master/surface0007.pngf213a85e156b68af89409e94ab3da261size=48827date=2023-10-06T19:13:40
+file,shell/master/surface0008.png45649076d51f0192bb916aeedc387c11size=47807date=2024-05-01T23:49:57
+file,shell/master/surface0100.pngf978b1848d24d4e6232371a880d16d8dsize=5986date=2023-10-06T18:12:49
+file,shell/master/surface0101.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:12:53
+file,shell/master/surface0102.pnga85645170f7b99dd0f259bb7e65c424asize=5278date=2023-10-04T03:16:51
+file,shell/master/surface0103.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:12:59
+file,shell/master/surface0104.pngf978b1848d24d4e6232371a880d16d8dsize=5986date=2023-10-06T18:13:02
+file,shell/master/surface0105.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:13:05
+file,shell/master/surface0106.png43caeb2f5513b91b9f907b816cb06014size=5973date=2023-10-06T18:13:07
+file,shell/master/surface0107.png2fd5e4b225f857a6df7da9914d382fe1size=1959date=2023-10-04T02:41:21
+file,shell/master/surface0108.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:13:10
+file,shell/master/surface0109.png4b068055437fb2e417dc4ba2d613a006size=2233date=2023-09-28T00:03:06
+file,shell/master/surface0110.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:03:15
+file,shell/master/surface0111.png2fd5e4b225f857a6df7da9914d382fe1size=1959date=2023-10-04T02:41:41
+file,shell/master/surface0112.png4b068055437fb2e417dc4ba2d613a006size=2233date=2023-09-28T00:03:29
+file,shell/master/surface0113.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:03:38
+file,shell/master/surface0114.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:03:48
+file,shell/master/surface0115.png2fd5e4b225f857a6df7da9914d382fe1size=1959date=2023-10-04T02:43:28
+file,shell/master/surface0116.png4b068055437fb2e417dc4ba2d613a006size=2233date=2023-09-28T00:04:08
+file,shell/master/surface0117.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:04:22
+file,shell/master/surface0118.png2fd5e4b225f857a6df7da9914d382fe1size=1959date=2023-10-04T02:43:20
+file,shell/master/surface0119.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:04:38
+file,shell/master/surface0200.pnga6407239d5d01ec6676383229406622csize=55323date=2023-10-06T19:17:01
+file,shell/master/surface0211.png4a6eec2f547c7c7d9f92719182799690size=5937date=2023-09-28T18:06:20
+file,shell/master/surface0212.png3d31a0681498a08b6f5b39915b01c894size=5799date=2023-09-28T18:05:19
+file,shell/master/surface0213.png0a8398ea84e22f3f373cab34848c09e6size=6100date=2023-09-28T18:07:09
+file,shell/master/surface0214.pnga76447e3653316eab334d9c77dc58eafsize=3310date=2023-09-28T01:07:41
+file,shell/master/surface0215.pngf2c6510483510a31ba3714df3095d25asize=3152date=2023-09-28T01:08:03
+file,shell/master/surface0216.pnge363bdffb68bebd708790caa854639d3size=3359date=2023-09-28T01:08:14
+file,shell/master/surface0217.png222046fcbee31694bf485d5b19f10911size=3312date=2023-09-28T01:08:27
+file,shell/master/surface0218.pngd1ee9414c8575ea655435ba61a8a2359size=3267date=2023-09-28T01:08:33
+file,shell/master/surface0219.png3638a7ed6eb7d0fbf3100f7e2d09c6f1size=3762date=2023-09-28T18:05:35
+file,shell/master/surface0220.png03ee8bf9de2cb88b7c813c36b7ab7790size=5174date=2023-10-04T03:08:13
+file,shell/master/surface0221.pngcdd9d8433741adba8946f6926987cdd3size=4746date=2023-09-28T02:16:34
+file,shell/master/surface0222.pngc0c068d3620fa854d6e6c69bfbb1df55size=4841date=2023-09-28T18:37:10
+file,shell/master/surface0230.png0d1fe6ebe458fb229d191fd05d912fc2size=3693date=2023-10-06T19:13:43
+file,shell/master/surface0231.png102b3c09a534890a439a7481bedae83esize=3793date=2023-10-06T19:14:50
+file,shell/master/surface0240.png422da14feeeec3a6189a4ed9c9f1be52size=5941date=2023-10-06T18:12:46
+file,shell/master/surface0241.pnga85645170f7b99dd0f259bb7e65c424asize=5278date=2023-10-04T03:16:51
+file,shell/master/surface0300.pngd9dd1827d0e745f03e4b885102a925casize=5651date=2023-09-28T02:37:49
+file,shell/master/surface0301.png9aa5c7458108e70aee93220ec1743b20size=6497date=2023-09-28T02:38:01
+file,shell/master/surfaces.txte6261094be00d5b093b73fb24eded67dsize=5519date=2024-05-01T23:46:30
+file,shell/master/surfacetable.txta080c6512d355085396c963645cdfc0dsize=289date=2023-10-15T02:47:59
+file,sound_file/sound_file.txtd25f353f6d0af90c28a251cad474b023size=54date=2007-09-15T22:00:00
+file,thanks.txt29314cbb86f5dbb38607c50d86202455size=397date=2007-09-15T22:00:00
+file,thumbnail.png82bf3bfdc1211a16452a1d611bbfde56size=19069date=2024-01-07T01:50:29
