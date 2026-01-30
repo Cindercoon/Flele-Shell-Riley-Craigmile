@@ -5,7 +5,7 @@ file,readme.txte18714ed2f8a4f66d71f60279b726c61size=3668date=2023-12-25T23:31
 file,thanks.txt29314cbb86f5dbb38607c50d86202455size=397date=2007-09-15T22:00:00
 file,thumbnail.png82bf3bfdc1211a16452a1d611bbfde56size=19069date=2024-01-07T01:50:29
 file,ghost/master/0.dic81eaab0d68668379e7ee12ba6daeb4e6size=38013date=2008-02-06T06:11:38
-file,ghost/master/1.dic2fee4e5a9b555222efb6a7ddbfec7b1fsize=72595date=2024-05-02T01:34:40
+file,ghost/master/1.dicb7ae1f460c4cd035740dad2ca61799d1size=71740date=2026-01-29T19:15:28
 file,ghost/master/aya5.dll7737614f08f642a0261a4f81917ed77asize=198144date=2007-09-15T22:00:00
 file,ghost/master/aya5.txtc1e734513f7e42027448afe06ff578desize=36date=2007-09-16T22:00:00
 file,ghost/master/descript.txt56b169f773a08b2c91c3097fe177ce1asize=381date=2024-03-09T18:59:02
@@ -95,4 +95,52 @@ file,shell/master/surface0300.pngd9dd1827d0e745f03e4b885102a925casize=5651dat
 file,shell/master/surface0301.png9aa5c7458108e70aee93220ec1743b20size=6497date=2023-09-28T02:38:01
 file,shell/master/surfaces.txte6261094be00d5b093b73fb24eded67dsize=5519date=2024-05-01T23:46:30
 file,shell/master/surfacetable.txta080c6512d355085396c963645cdfc0dsize=289date=2023-10-15T02:47:59
+file,shell/semi dressy/descript.txtde1947f6b31e5825ae25c081a87f2df3size=857date=2025-09-30T01:19:54
+file,shell/semi dressy/menu_background.png79e1eec8474db01bc0b3999b5d1f1d42size=251date=2007-09-15T23:00:00
+file,shell/semi dressy/menu_foreground.pngd041ddc2ff7ba457095680c85198ca45size=2398date=2007-09-15T23:00:00
+file,shell/semi dressy/menu_sidebar.png08d6da46dadbe775cc5e8497e030e39bsize=3337date=2023-09-27T23:28:53
+file,shell/semi dressy/readme.txt642a44c4bf7eb67de909ebae9da2e768size=864date=2023-10-06T19:25:32
+file,shell/semi dressy/surface0000.png6ee020f180bc7bbea97313363f5a619esize=45802date=2025-10-02T04:20:11
+file,shell/semi dressy/surface0001.pngbf38aab7ac1a9e1fb93b7b6070785accsize=45466date=2025-10-02T04:20:04
+file,shell/semi dressy/surface0002.png94d1644a9c9fbbe50ccbcc3c22ff4edfsize=48315date=2025-10-02T03:29:01
+file,shell/semi dressy/surface0003.pngdb22a17cba327836e1a7b1188ac13ae8size=58474date=2025-10-02T03:39:07
+file,shell/semi dressy/surface0004.pngabec93988367832aeb3fa0695ea2b54fsize=59914date=2025-10-02T03:35:05
+file,shell/semi dressy/surface0005.png9103ff5f60d0f5ef0fad122b3c27278fsize=49497date=2025-10-02T03:34:01
+file,shell/semi dressy/surface0007.png1113d376c478334999d105f545e5f4d3size=49292date=2025-10-02T03:33:45
+file,shell/semi dressy/surface0008.png94d1644a9c9fbbe50ccbcc3c22ff4edfsize=48315date=2025-10-02T03:32:55
+file,shell/semi dressy/surface0100.pngf978b1848d24d4e6232371a880d16d8dsize=5986date=2023-10-06T18:12:49
+file,shell/semi dressy/surface0101.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:12:53
+file,shell/semi dressy/surface0102.pnga85645170f7b99dd0f259bb7e65c424asize=5278date=2023-10-04T03:16:51
+file,shell/semi dressy/surface0103.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:12:59
+file,shell/semi dressy/surface0104.pngf978b1848d24d4e6232371a880d16d8dsize=5986date=2023-10-06T18:13:02
+file,shell/semi dressy/surface0105.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:13:05
+file,shell/semi dressy/surface0106.png43caeb2f5513b91b9f907b816cb06014size=5973date=2023-10-06T18:13:07
+file,shell/semi dressy/surface0107.png2fd5e4b225f857a6df7da9914d382fe1size=1959date=2023-10-04T02:41:21
+file,shell/semi dressy/surface0108.pngd573c0fcf57c37dc27e7b6f8123b9184size=5517date=2023-10-06T18:13:10
+file,shell/semi dressy/surface0109.png4b068055437fb2e417dc4ba2d613a006size=2233date=2023-09-28T00:03:06
+file,shell/semi dressy/surface0110.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:03:15
+file,shell/semi dressy/surface0111.png2fd5e4b225f857a6df7da9914d382fe1size=1959date=2023-10-04T02:41:41
+file,shell/semi dressy/surface0112.png4b068055437fb2e417dc4ba2d613a006size=2233date=2023-09-28T00:03:29
+file,shell/semi dressy/surface0113.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:03:38
+file,shell/semi dressy/surface0114.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:03:48
+file,shell/semi dressy/surface0115.png2fd5e4b225f857a6df7da9914d382fe1size=1959date=2023-10-04T02:43:28
+file,shell/semi dressy/surface0116.png4b068055437fb2e417dc4ba2d613a006size=2233date=2023-09-28T00:04:08
+file,shell/semi dressy/surface0117.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:04:22
+file,shell/semi dressy/surface0118.png2fd5e4b225f857a6df7da9914d382fe1size=1959date=2023-10-04T02:43:20
+file,shell/semi dressy/surface0119.pngcfc6b47f1ad18c63964fc51a9d9aeb59size=1884date=2023-09-28T00:04:38
+file,shell/semi dressy/surface0200.pngc3b2122949b612464b65548a595c567fsize=53648date=2025-10-02T04:37:39
+file,shell/semi dressy/surface0211.pngfc2a36b38fee8b46b46c419a283c43ebsize=7265date=2025-10-02T04:51:46
+file,shell/semi dressy/surface0212.png1b91f50ed8a833a393b76e36f37ccb36size=7217date=2025-10-02T04:51:41
+file,shell/semi dressy/surface0213.png7b4517dfb6aad6756e5783d47e2310casize=7319date=2025-10-02T04:51:54
+file,shell/semi dressy/surface0220.pngda73b9d2f457eb4853163707fe8ac1f5size=5851date=2025-10-02T04:56:20
+file,shell/semi dressy/surface0221.png83abfe26a778a0dadef313dc34716137size=5225date=2025-10-02T04:55:38
+file,shell/semi dressy/surface0222.pnga6b33a36057b4342b44e6cb5c5f5331fsize=5268date=2025-10-02T04:55:46
+file,shell/semi dressy/surface0230.png171463dda442545209b7aa6b87de8659size=3691date=2025-10-02T04:42:37
+file,shell/semi dressy/surface0231.png2e331ce3a989a94aec82b8c53cf9482dsize=3691date=2025-10-02T04:42:33
+file,shell/semi dressy/surface0240.png422da14feeeec3a6189a4ed9c9f1be52size=5941date=2023-10-06T18:12:46
+file,shell/semi dressy/surface0241.pnga85645170f7b99dd0f259bb7e65c424asize=5278date=2023-10-04T03:16:51
+file,shell/semi dressy/surface0300.pngd9dd1827d0e745f03e4b885102a925casize=5651date=2023-09-28T02:37:49
+file,shell/semi dressy/surface0301.png9aa5c7458108e70aee93220ec1743b20size=6497date=2023-09-28T02:38:01
+file,shell/semi dressy/surfaces.txte6261094be00d5b093b73fb24eded67dsize=5519date=2025-05-30T00:54:57
+file,shell/semi dressy/surfacetable.txta080c6512d355085396c963645cdfc0dsize=289date=2023-10-15T02:47:59
 file,sound_file/sound_file.txtd25f353f6d0af90c28a251cad474b023size=54date=2007-09-15T22:00:00

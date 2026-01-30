@@ -1,0 +1,32 @@
+charset,Shift_JIS
+version,1
+option,DisableNoDefineSurfaces
+
+group,__disabled
+{
+}
+
+
+//Riley regular surface
+group,G
+{
+scope,0
+0, basic posing
+1, petted/not singing
+2, petted/singing
+6, eyes closed
+25, sing
+}
+
+
+
+//other
+groups, etc.
+{
+10, none
+30, note
+}
+
+
+
+

@@ -44,13 +44,9 @@ if ○現在シェル=='Pink Cardigan' //This if statement checks if Pink Cardigan is 
 	{
 		"\0\s[35] I'm Riley Craigmile. \w5I can sing any song you want. \s[35]\n\w8\w5Just drag and drop a song from a folder onto me. \s[0]\w8 \e"
 	}
-if ○現在シェル=='Bunnyhug'
+if ○現在シェル=='Semi Dressy'
 	{
-		"\0\s[1]\w5 What the fuck? \w5 Why is this back in my closet? \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
-	}	
-if ○現在シェル=='Missing No.'
-	{
-		"\0\s[1]\w5 No. \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
+		"\0\s[1]\w5 Hmmm\w5.\w5.\w5. \w5Yeah, alright. \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
 	}	
 else 
 	{
@@ -148,12 +144,41 @@ if dayslot == userbirthday
 		"%(normalboottalk)"
 	}
 	}
+if ○現在シェル=='Semi Dressy'
+	{
+//time related announcements, delete this block if unwanted
+dayslot = GetDaySlot
+timeslot = GetTimeSlot
+if dayslot == userbirthday
+	{
+			"\0\s[35] Today is %(bornmonthprint) %(borndayprint)...\w8\nHappy birthday, %username. \w8\s[2120]\n We should head ot for some sushi, or something later.\s[0]\e" 
+	}
+	elseif dayslot == "12month 25day"
+	{
+				"\0\s[35] Merry Christmas.\s[0]\e"
+	}
+	elseif dayslot == "10month 31day"
+	{
+				"\0\s[35] Hey, it's Halloween.\nI'm heading out to see Rocky Horror. You should come along.\s[0]\e"
+	}
+	else
+	{
+		"%(normalboottalk)"
+	}
+	}	
 	
 }
 	
 normalboottalk
 {
 if ○現在シェル=='Pink Cardigan' 
+	{
+ 		"\0\s[35] Hey. \s[0]\e"
+ 		"\0\s[35] What's up. \s[0]\e"		
+ 		"\0\s[35] Well, let's get this sesh going. \s[0]\e"			
+ 		"\0\s[1] Hmmm. \w5. \w5. \w5. \w5. \w5. \w5Oh, \s[35] hey.\s[0]\e"	
+	}	
+if ○現在シェル=='Semi Dressy' 
 	{
  		"\0\s[35] Hey. \s[0]\e"
  		"\0\s[35] What's up. \s[0]\e"		
@@ -173,6 +198,9 @@ txt = "_" + reference0
 	if ○現在シェル=='Pink Cardigan' {
 	"\0\s[35] How's it going? \s[0]\e"
 	}
+	if ○現在シェル=='Semi Dressy' {
+	"\0\s[35] How's it going? \s[0]\e"
+	}	
 	else 
 	{
 	"\e"
@@ -277,12 +305,20 @@ OnShellChanged
 ○現在シェル = reference0
 if ○現在シェル=='Pink Cardigan'
 	{
-	"\1\s[10]\0\s[35] Good. \w5Please don't do that again.\s[0]\e\w9\w9%(○サーフェス)"
+	"\1\s[10]\0\s[35]\w5 . \w5 . \w5 ? \nPink never leaves me alone, huh. \nWhatever.\s[0]\e\w9\w9%(○サーフェス)"
 	--
 	□タスクトレイアイコン指定
 
 	"\e"
 	}
+if ○現在シェル=='Semi Dressy'
+	{
+	"\1\s[10]\0\s[35] Y2K's back in style. \w5Very '07.\s[0]\e\w9\w9%(○サーフェス)"
+	--
+	□タスクトレイアイコン指定
+
+	"\e"
+	}	
 	elseif ○現在シェル=='MissingNo.'
 	{
 	"\0\s[1] What the \w5 . \w5 . \w5 ? \w5 \w5 \w5I won't be talking to you until I get dressed again. \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
@@ -360,6 +396,13 @@ if ○現在シェル=='Pink Cardigan'
 "\0\s[1] Please don't do that. It makes me nauseous.\w9\w9%(○サーフェス)\e"
 "\0\s[1] . \w5 . \w5 . \n\What did I tell you. \n\Stop that.\w9\w9%(○サーフェス)\e"
 }
+if ○現在シェル=='Semi Dressy'
+{
+"\0\s[1] Please don't do that. It makes me nauseous.\w9\w9%(○サーフェス)\e"
+"\0\s[1] Please don't do that. It makes me nauseous.\w9\w9%(○サーフェス)\e"
+"\0\s[1] Please don't do that. It makes me nauseous.\w9\w9%(○サーフェス)\e"
+"\0\s[1] . \w5 . \w5 . \n\What did I tell you. \n\Stop that.\w9\w9%(○サーフェス)\e"
+}
 else
 {
 "\e"
@@ -423,6 +466,10 @@ if ○現在シェル=='Pink Cardigan'
 {
 	"\0\w4\s[0] I'll catch you later. \1\s[10]\w9\w5\- \e"
 }
+if ○現在シェル=='Semi Dressy'
+{
+	"\0\w4\s[0] I'll catch you later. \1\s[10]\w9\w5\- \e"
+}
 else
 {
 "\e"
@@ -440,6 +487,10 @@ if ○現在シェル=='Pink Cardigan'
 {
 	"\0\w4\s[35] Checking in on %reference0? \n I'll catch you later. \1\s[10]\w9\w5\e"
 }
+if ○現在シェル=='Semi Dressy'
+{
+	"\0\w4\s[35] Checking in on %reference0? \n I'll catch you later. \1\s[10]\w9\w5\e"
+}
 else
 {
 "\0\w4\s[0]\1\s[10]\w9\w5\e"
@@ -451,6 +502,10 @@ OnVanishSelected {
 	□終了前
 --
 if ○現在シェル=='Pink Cardigan'
+{
+	"\0\w4\s[35] See you later.\1\s[10]\w9\w5\e"
+}
+if ○現在シェル=='Semi Dressy'
 {
 	"\0\w4\s[35] See you later.\1\s[10]\w9\w5\e"
 }
@@ -469,6 +524,10 @@ if ○現在シェル=='Pink Cardigan'
 {
 	"\w4\s[35] I'll catch you later.\1\s[10]\-\e"
 	}	
+	if ○現在シェル=='Semi Dressy'
+	{
+	"\w4\s[35] I'll catch you later.\1\s[10]\-\e"
+	}	
 	else
 	{
 	"\w4\s[0]\1\s[10]\-\e"
@@ -483,6 +542,10 @@ if ○現在シェル=='Pink Cardigan'
 	{
 	"\w4\s[35] Please don't do that. It makes me nauseous.\w9\w9%(○サーフェス)\e"
 	}
+if ○現在シェル=='Semi Dressy'
+	{
+	"\w4\s[35] Please don't do that. It makes me nauseous.\w9\w9%(○サーフェス)\e"
+	}	
 	else
 	{
 	"\e"
@@ -606,7 +669,7 @@ if ○現在シェル=='Pink Cardigan'
 	"\0\s[1]\w5 Right, \w5so, \w5why did you call me over? \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"	
 	"\0\s[1]\w5 . \w5 . \w5 . \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
 	}		
-	elseif ○現在シェル=='Truly Emo'	
+	elseif ○現在シェル=='Semi Dressy'	
 	{
 	"\0\s[1]\w5 Yeah, \w5 alright. \w5 . \w5 . \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
 	"\0\s[1]\w5 Whatever. \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
@@ -623,37 +686,6 @@ if ○現在シェル=='Pink Cardigan'
 	"\0\s[1]\w5 I don't know why you keep pestering me. \w5I'm not going to transform for you. \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
 	"\0\s[1]\w5 Hmmm, \w5what? \w5Oh, the wolf transformation thing? \w5Yeah, \w5me and a few of my friends are werewolves. \w5Not the mindless type you'd see in media, mind you. \w5I just don't want to transform. \w5The clothing issue. \w5. \w5. \w5 thing.\w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
 	"\0\s[1]\w5 . \w5 . \w5 . \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
-	}	
-	elseif ○現在シェル=='Bunnyhug'	
-	{
-	"\0\s[1]\w5 Yeah, \w5 alright. \w5 . \w5 . \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
-	"\0\s[1]\w5 Whatever. \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
-	"\0\s[1]\w5 What do you want? \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
-	"\0\s[1]\w5 Hmph \w5 . \w5 . \w5 . \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"	
-	"\0\s[1]\w5 Are you going to stop soon? \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"	
-	"\0\s[1]\w5 Can you hurry up? \w5 I have things to do. \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"	
-	"\0\s[1]\w5 Just, \w5don't ruffle my hair up too much. \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"	
-	"\0\s[1]\w5 I'm not going to transform into a wolf for you, \w5no matter how often you pet me. \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"		
-	"\0\s[1]\w5 Alright, \w5 so, \w5 what do you usually do to pass the time? \w5 Something better then this, \w5 I presume. \w5 . \w5 . \w5\w5\w5\w5\w5\w5 Or not. \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"	
-	"\0\s[1]\w5 I don't know why I keep entertaining you. \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
-	"\0\s[1]\w5 So, \w5what kind of music are you into? \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
-	"\0\s[1]\w5 What now? \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
-	"\0\s[1]\w5 I don't know why you keep pestering me. \w5I'm not going to transform for you. \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
-	"\0\s[1]\w5 Hmmm, \w5what? \w5Oh, the wolf transformation thing? \w5Yeah, \w5me and a few of my friends are werewolves. \w5Not the mindless type you'd see in media, mind you. \w5I just don't want to transform. \w5The clothing issue. \w5. \w5. \w5 thing.\w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
-	"\0\s[1]\w5 . \w5 . \w5 . \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
-	}	
-	elseif ○現在シェル=='Missing No.'	
-	{
-	"\0\s[1]\w5 . \w5 . \w5 . \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
-	"\0\s[1]\w5 . \w5 . \w5 . \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
-	"\0\s[1]\w5 . \w5 . \w5 . \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
-	"\0\s[1]\w5 . \w5 . \w5 . \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
-	"\0\s[1]\w5 . \w5 . \w5 . \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
-	"\0\s[1]\w5 . \w5 . \w5 . \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
-	"\0\s[1]\w5 . \w5 . \w5 . \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
-	"\0\s[1]\w5 . \w5 . \w5 . \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
-	"\0\s[1]\w5 . \w5 . \w5 . \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"	
-	"\0\s[1]\w5 Fuck off! \w9\w9\w9\w9\w9\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
 	}	
 	else
 	{

@@ -1,0 +1,241 @@
+//----Masa
+
+sakura.surface.alias
+{
+1,[0001,2110,2120]
+}
+
+
+surface0
+{
+//blink
+0interval,random,3
+0pattern0,-1,10,overlay,0,0
+0pattern1,0101,5,overlayfast,0,0
+0pattern1,0106,1,overlayfast,0,0
+0pattern2,0100,10,overlayfast,0,0
+0pattern3,-1,3,overlay,0,0
+
+//eyes closed
+1interval,random,70
+1pattern0,0102,200,overlayfast,0,0
+
+//details
+2interval,random,70
+2pattern0,0104,100,overlayfast,0,0
+5pattern1,-1,800,overlay,0,0
+
+//smile
+5interval,random,140
+5pattern0,0119,0,overlayfast,0,0
+5pattern1,-1,800,overlay,0,0
+
+
+collision0,58, 179, 85, 197,stop_button1
+collision1,58, 179, 85, 197,stop_button2
+collision2,108, 179, 132, 193,play_button
+collision3,25, 178, 43, 212,k_window
+collision4,77, 265, 111, 284,menu
+collision5,87, 216, 113, 226,clear_button
+collision6,28, 98, 151, 165,stroke_p
+}
+
+
+
+surface
+{
+element0,overlay,surface0005.png,0,0
+
+
+
+collision0,58, 179, 85, 197,stop_button1
+collision1,58, 179, 85, 197,stop_button2
+collision2,108, 179, 132, 193,play_button
+collision3,25, 178, 43, 212,k_window
+collision4,77, 265, 111, 284,menu
+collision5,87, 216, 113, 226,clear_button
+collision6,28, 98, 151, 165,stroke_p
+}
+
+
+
+surface1
+{
+
+animation400.interval,runonce
+animation400.pattern0,alternativestart,(4001,4002,4003)
+	
+//main
+animation4001.interval,never
+animation4001.pattern0,overlay,0002,-1,0,0
+animation4001.pattern2,start,0200
+	
+//sweat
+animation4002.interval,never
+animation4002.pattern0,overlay,0005,-1,0,0
+animation4002.pattern2,start,0200
+
+
+collision0,58, 179, 85, 197,stop_button1
+collision1,58, 179, 85, 197,stop_button2
+collision2,108, 179, 132, 193,play_button
+collision3,25, 178, 43, 212,k_window
+collision4,77, 265, 111, 284,menu
+collision5,87, 216, 113, 226,clear_button
+collision6,28, 98, 151, 165,stroke_p
+}
+
+
+
+
+surface6
+{
+element0,overlay,surface0000.png,0,0
+
+
+collision0,58, 179, 85, 197,stop_button1
+collision1,58, 179, 85, 197,stop_button2
+collision2,108, 179, 132, 193,play_button
+collision3,25, 178, 43, 212,k_window
+collision4,77, 265, 111, 284,menu
+collision5,87, 216, 113, 226,clear_button
+collision6,28, 98, 151, 165,stroke_p
+}
+
+
+
+
+
+surface25
+{
+element0,always,surface0200.png,0,0
+
+
+//Note
+0interval,always
+0pattern0,0300,0,overlay,0,0
+0pattern1,0301,90,overlay,0,0
+0pattern2,0300,90,overlay,0,0
+0pattern3,0301,90,overlay,0,0
+
+//main singing
+1interval,always
+1pattern0,0115,0,overlay,0,0
+1pattern1,0116,22,overlay,0,0
+1pattern2,0115,18,overlay,0,0
+1pattern3,0110,35,overlay,0,0
+1pattern4,0115,32,overlay,0,0
+1pattern5,0117,36,overlay,0,0
+1pattern6,0115,40,overlay,0,0
+1pattern7,0116,27,overlay,0,0
+1pattern8,0115,22,overlay,0,0
+1pattern9,0110,31,overlay,0,0
+1pattern10,0115,28,overlay,0,0
+1pattern11,0112,37,overlay,0,0
+1pattern12,0109,24,overlay,0,0
+
+//blink
+2interval,random,4
+2pattern0,-1,10,overlay,0,0
+2pattern1,0106,5,overlayfast,0,0
+2pattern2,0105,10,overlayfast,0,0
+2pattern3,-1,3,overlay,0,0
+
+//eyes closed
+3interval,random,20
+3pattern0,0102,0,overlayfast,0,0
+3pattern1,-1,700,overlay,0,0
+
+//look sideways
+5interval,random,20
+5pattern0,0240,0,overlayfast,0,0
+5pattern1,-1,700,overlay,0,0
+
+//foot tapping
+animation100.interval,runonce
+animation100.pattern0,alternativestart,(1001,1002)
+
+animation1001.interval,never
+animation1001.pattern0,overlay,0230,-1,0,0
+animation1001.pattern1,overlay,-1,2000-3000,0,0
+animation1002.pattern0,overlay,0231,-1,0,0
+animation1002.pattern1,overlay,-1,150,0,0
+animation1001.pattern2,start,0100
+
+//---Right Arm---
+animation200.interval,runonce
+animation200.pattern0,alternativestart,(2001,2002,2003,2004,2005)
+	
+//strumming 1
+animation2001.interval,never
+animation2001.pattern0,overlay,0211,-1,0,0
+animation2001.pattern1,overlay,-1,300-400,0,0
+animation2001.pattern2,start,0200
+	
+//strumming 2
+animation2002.interval,never
+animation2002.pattern0,overlay,0212,-1,0,0
+animation2002.pattern1,overlay,-1,300-400,0,0
+animation2002.pattern2,start,0200
+	
+//strumming 3
+animation2003.interval,never
+animation2003.pattern0,overlay,0213,-1,0,0
+animation2003.pattern1,overlay,-1,300-400,0,0
+animation2003.pattern2,start,0200
+
+//---Left Arm Front---
+animation300.interval,runonce
+animation300.pattern0,alternativestart,(3001,3002,3003)
+
+//front hand 1
+animation3001.interval,never
+animation3001.pattern0,overlay,0220,-1,0,0
+animation3001.pattern1,overlay,-1,2000-5000,0,0
+animation3001.pattern2,start,0300
+
+//front hand 2
+animation3002.interval,never
+animation3002.pattern0,overlay,0221,-1,0,0
+animation3002.pattern1,overlay,-1,2000-5000,0,0
+animation3002.pattern2,start,0300
+
+//front hand 3
+animation3003.interval,never
+animation3003.pattern0,overlay,0222,-1,0,0
+animation3003.pattern1,overlay,-1,2000-5000,0,0
+animation3003.pattern2,start,0300
+
+//animation1999.interval,runonce
+//animation1999.pattern0,overlay,0400,-1,0,0
+
+collision0,58, 179, 85, 197,stop_button1
+collision1,58, 179, 85, 197,stop_button2
+collision2,108, 179, 132, 193,play_button
+collision3,25, 178, 43, 212,k_window
+collision4,77, 265, 111, 284,menu
+collision5,87, 216, 113, 226,clear_button
+collision6,28, 98, 151, 165,stroke_p
+}
+
+//Note
+0interval,always
+0pattern0,0300,0,overlay,0,0
+0pattern1,0301,90,overlay,0,0
+0pattern2,0300,90,overlay,0,0
+0pattern3,0301,90,overlay,0,0
+}
+
+
+//¦¦button position?dress-up objects¦¦
+surface0,surface1,surface2,surface6,surface25
+{
+
+
+//clothes-basic
+animation901.interval,bind
+animation901.pattern0,add,9600,0,0,0
+}
+
+
+
