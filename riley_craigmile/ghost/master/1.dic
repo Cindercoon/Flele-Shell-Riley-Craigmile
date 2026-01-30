@@ -2681,7 +2681,7 @@ OnUpdate.OnDownloadBegin
 OnUpdateComplete {
 	if reference0 == "none" {"\0\s[0]Nothing new. You have the latest files.\w9\w9\w9\w9%(○サーフェス)\e"}
 	else {
-	"\0\s[0]%(reference3) update complete\w9\w9\w9\w9%(○サーフェス)\e"
+	"\0\s[0]Right, so there were a few new things this time.\nProbably some more clothing options.\w9\w9\w9\w9%(○サーフェス)\e"
 	}
 }
 
